@@ -29,6 +29,6 @@
 
 - [ ] Submit showcase
 
-> Take input.   
-> Store in md   
+> Take input
+> Store in md
 > curl --upload-file {file1, file2} https://something.com
