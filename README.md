@@ -10,7 +10,7 @@
 - [x] Live stream twitch videos.   
 
 1. [StreamLink](streamlink.github.io)   
-2. VLC/mpv installed.   
+2. VLC/mpv installed
 
 
 ##TASKS
