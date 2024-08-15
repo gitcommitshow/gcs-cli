@@ -1,8 +1,8 @@
 # gcs-cli
 
 
-- [x] Volunteers are listed: API and locally.   
-- [x] Speakers is also the same.   
+- [x] Volunteers are listed: API and locally
+- [x] Speakers is also the same
 
 ### Streaming
 
